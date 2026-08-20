@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sourav-banik
 - 👀 I’m interested in web development, data analysis, financial analysis, trading algorithms, machine learning, block chain, cross-platform application development etc.
 - 🌱 I’m currently learning data analysis, cross-platform development.
-- 💞️ I’m looking to collaborate on fintech related application using JS, Python, VBA or C#.
+- 💞️ I’m looking to collaborate on fintech related application using JS, Python, R or C#.
 - 📫 You can reach me on mail@souravbanik.com
 
 <!---
